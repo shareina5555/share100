@@ -7,3 +7,5 @@ vless://72b5724b-9d42-4491-a6e1-b58af8a8ae72@de1-ws.xvless.xyz:80?encryption=non
 vless://de91a2e2-8d99-4348-a006-9544a93ca5bf@lv1.v2vless.xyz:80?encryption=none&security=none&type=ws&host=lv1.v2vless.xyz&path=%2Fvless#sshocean-%D8%AA%D8%A7%2B%DB%B2%DB%B7%2B%D9%85%D9%87%D8%B1
 vless://9fc89861-e9e8-4356-8ebf-9782340e160b@bg1-ws.xvless.xyz:80?encryption=none&security=none&type=ws&host=bg1-ws.xvless.xyz&path=%2Fwebsocket#sshocean-%D8%AA%D8%A7%2B%DB%B2%DB%B7%2B%D9%85%D9%87%D8%B1
 vless://0544aa82-56a0-452c-899b-d5df53a673a3@de2-ws.xvless.xyz:443?encryption=none&security=tls&sni=jik.nji.com&type=ws&host=de2-ws.xvless.xyz&path=%2Fwebsocket#sshocean-%D8%AA%D8%A7%2B%DB%B2%DB%B7%2B%D9%85%D9%87%D8%B1
+vless://93827ab8-3eba-46a8-b1e7-9e7f1a7d6e73@de1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=de1-ws.xvless.xyz&type=ws&sni=sho.dd.com#sshocean-shodan-e1
+vless://93827ab8-3eba-46a8-b1e7-9e7f1a7d6e73@de1-ws.xvless.xyz:80?path=%2Fwebsocket&security=none&encryption=none&host=de1-ws.xvless.xyz&type=ws&sni=sho.dd.com#sshocean-shodan-e1
